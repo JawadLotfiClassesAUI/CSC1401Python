@@ -1,6 +1,6 @@
 # CSC1401 Lectures
 
-### Folder 1 - Sequences [click](1-sequences/)
+### Folder 1 - [Sequences](1-sequences/)
 - Input - Data Types
 - Computations and assignments
 - Output
