@@ -1,6 +1,6 @@
 # CSC1401 Lectures
 
-[test](1-sequences/)
+[### test](1-sequences/)
 ### Folder 1 - Sequences
 - Input - Data Types
 - Computations and assignments
