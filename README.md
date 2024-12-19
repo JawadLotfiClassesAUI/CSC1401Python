@@ -45,3 +45,8 @@
 - Passing lists to functions
 - Parallel Lists
 - Nested Lists
+
+### Folder 8 - [Dictionaries](8-dictionaries)
+- Dictionaries as key:value pairs
+- List of dictionaries
+- Iteration through list and access to specific key
